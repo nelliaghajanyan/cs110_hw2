@@ -4,5 +4,5 @@ const factorial = function(n){
     }
     return n * factorial(n-1);
   };
-  console.log(factorial(5))
+  console.log(factorial(5));
   
